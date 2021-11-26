@@ -1,3 +1,7 @@
+
+ minhas anotaçôes
+
+
 pepositorio
 E a pasta do projeto
 
