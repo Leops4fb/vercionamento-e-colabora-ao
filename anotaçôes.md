@@ -1,9 +1,9 @@
 
- minhas anotaçôes
+## minhas anotaçôes
 
 
-pepositorio
-E a pasta do projeto
+# pepositorio
+#E a pasta do projeto
 
 conmmit
 é um grupo de alteraçês no código
